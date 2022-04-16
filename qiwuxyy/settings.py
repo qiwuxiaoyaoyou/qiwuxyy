@@ -31,7 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-
+    #齐物逍遥游的博客——应用程序
+    'qiwuxyy_blogs',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
