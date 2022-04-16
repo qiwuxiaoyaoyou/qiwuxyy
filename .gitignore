@@ -1,0 +1,8 @@
+#pycharm自动生成的
+.idea/
+ll_env/
+__pycache__/
+
+
+#数据库
+db.sqlite3
